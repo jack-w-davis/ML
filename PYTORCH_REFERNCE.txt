@@ -1,0 +1,6 @@
+torch.utils.data.Dataset
+    - Dataset stores the samples and their corresponding labels
+
+torch.utils.data.DataLoader
+    - Dataloader wraps an interable around the dataset
+
